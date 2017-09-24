@@ -1,2 +1,2 @@
-# StoicKit front-end
-Front-end code for StoicKit.  Branches for website, Android, iOS, etc.
+# StoicKit front-end (Web)
+Website for StoicKit, using Dart (Angular?).
